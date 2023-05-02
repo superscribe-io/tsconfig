@@ -1,17 +1,17 @@
-# @directus/tsconfig
+# @superscribe/tsconfig
 
-The shared TS Config files used by the projects in the Directus ecosystem.
+The shared TS Config files used by the projects in the superscribe ecosystem.
 
 ## Usage
 
 ```
-pnpm add @directus/tsconfig
+pnpm add @superscribe/tsconfig
 ```
 
 In your `tsconfig.json`:
 
 ```
-	"extends": "@directus/tsconfig/node18-esm.json"
+	"extends": "@superscribe/tsconfig/node18-esm.json"
 ```
 
 ## License

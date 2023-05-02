@@ -1,13 +1,12 @@
 {
-	"name": "@directus/tsconfig",
+	"name": "@superscribe/tsconfig",
 	"version": "0.0.7",
-	"description": "TS Config used in Directus projects",
+	"description": "TS Config used in Superscribe projects",
 	"main": "index.js",
 	"keywords": [
 		"tsconfig",
-		"directus"
+		"superscribe"
 	],
-	"author": "Rijk van Zanten <rijkvanzanten@me.com>",
 	"license": "MIT",
 	"files": [
 		"./node18-esm.json"
