@@ -3,6 +3,9 @@
 	"version": "0.0.7",
 	"description": "TS Config used in Superscribe projects",
 	"main": "index.js",
+	"scripts": {
+		"publish-all": "pnpm publish --access=public --no-git-checks"
+	},
 	"keywords": [
 		"tsconfig",
 		"superscribe"
